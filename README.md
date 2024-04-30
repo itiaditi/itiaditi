@@ -14,7 +14,7 @@
 <hr/>
 
   ## About Me:
-     
+   <p>  <img src="https://komarev.com/ghpvc/?username=itiaditi&label=Profile%20views&color=0e75b6&style=flat"/></p>
 <div style="display: flex; justify-content: space-between; height:50%;">
   <img align="right" width="50%" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif"/>
   <div align="left" style="width:50%;height:50vh; padding:"10px">
