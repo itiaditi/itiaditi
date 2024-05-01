@@ -13,28 +13,23 @@
 
 <hr/>
 
-  ## About Me:
-   <p>  <img src="https://komarev.com/ghpvc/?username=itiaditi&label=Profile%20views&color=0e75b6&style=flat"/></p>
-<div style="display: flex; justify-content: space-between; height:50%;">
-  <img align="right" width="50%" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif"/>
-  <div align="left" style="width:50%;height:50vh; padding:"10px">
-    <br>
-    <br>
-    - 🔭 I’m currently working on Something Interesting.
-    <br>
-    <br>
-    - 🌱 I’m currently learning <strong>MERN Stack</strong>
-    <br>
-    <br>
-   - 📫 How to reach me <strong><a href="mailto:aditi.tlgt244@gmail.com">aditi.tlgt@gmail.com</a></strong>
-  <br>
-  <br>
-      - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1PRqd8mJGGRifrqXpLsuyA3NgKRQxgjW8/view?usp=drive_link" rel="nofollow">Resume</a>
-      <br>
-  </div>
+## About Me:
+
+ <img src="https://komarev.com/ghpvc/?username=itiaditi&label=Profile%20views&color=0e75b6&style=flat"/>
+
+<img align="right" width="300" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif" alt="Coding gif" />
  
-</div>
-<br>
+ - 🔭 I’m currently working on Something Interesting.
+
+ - 🌱 I’m currently learning <strong>MERN Stack</strong>
+
+ - 📫 How to reach me <strong><a href="mailto:aditi.tlgt244@gmail.com">aditi.tlgt@gmail.com</a></strong>
+
+ - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1PRqd8mJGGRifrqXpLsuyA3NgKRQxgjW8/view?usp=drive_link" rel="nofollow">Resume</a>
+
+ - 🎨 Open to new ideas and suggestions - share yours!
+   <br>
+   <br>
 <hr/>
 
 
@@ -71,12 +66,12 @@
 
 ## Stats and Activity Graph
 <div display="inline-block" align="center" style="padding:8px">
-  <img src="https://github-readme-stats.vercel.app/api?username=itiaditi&show_icons=true&locale=en"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=itiaditi"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=itiaditi&theme=react&show_icons=true&locale=en"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=itiaditi&theme=react"/>
 </div>
-<div margin-top="4px"align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=itiaditi&show_icons=true&locale=en&layout=compact" style="width:"80%"/></div>
+<div margin-top="4px"align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=itiaditi&theme=react&show_icons=true&locale=en&layout=compact" style="width:"80%"/></div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itiaditi&theme=react-light&bg_color=white"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=itiaditi&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 ## Badges
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itiaditi" alt="itiaditi" /></a> </p>
