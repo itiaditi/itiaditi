@@ -1,4 +1,4 @@
-<img src="personnelBanner.gif"/>
+
 
   <h1 align="center">Hi 👋, I'm Aditi Dhiman</h1>
   <h2 align="center">A passionate Full Stack Developer</h2>
