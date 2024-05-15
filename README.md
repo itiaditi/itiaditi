@@ -1,4 +1,4 @@
-
+<img src="bannerImage.gif"/>
 
   <h1 align="center">Hi 👋, I'm Aditi Dhiman</h1>
   <h2 align="center">A passionate Full Stack Developer</h2>
@@ -82,4 +82,3 @@
 <div margin-top="4px"align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=itiaditi&theme=react&show_icons=true&locale=en&layout=compact" style="width:"80%"/></div>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=itiaditi&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-
