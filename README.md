@@ -37,7 +37,7 @@
 <p align="left">
 <a href="https://codepen.io/aditi-dhiman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="aditi-dhiman" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aditi-dhiman008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditi-dhiman008" height="30" width="40" /></a>
-  <a href="https://aditidhiman.vercel.app/" target="blank">
+  <a href="https://itiaditi.github.io/" target="blank">
     <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa9-PWW-tWOlJk3kzawPj_LhEpdafLeJSgjA&usqp=CAU" alt="portfolio" height="30" width="30"/>
   </a>
 </p>
