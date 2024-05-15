@@ -80,6 +80,3 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=itiaditi&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
-## Badges
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itiaditi" alt="itiaditi" /></a> </p>
