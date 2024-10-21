@@ -25,9 +25,9 @@
 
 - 📫 How to reach me <strong><a href="mailto:aditi.tlgt244@gmail.com">aditi.tlgt@gmail.com</a></strong>
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1PRqd8mJGGRifrqXpLsuyA3NgKRQxgjW8/view?usp=drive_link" rel="nofollow">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1PRqd8mJGGRifrqXpLsuyA3NgKRQxgjW8/view?usp=drive_" rel="nofollow">Resume</a>
 
-- 🌐 To know more about me check out <a href="https://itiaditi.github.io/" rel="nofollow">Portfolio</a>
+- 🌐 To know more about me check out <a href="https://aditi007.github.io/" rel="nofollow">Portfolio</a>
 
 - 🎨 Open to new ideas and suggestions - share yours!
 <br>
